@@ -1,0 +1,45 @@
+{
+  "name": "kadet.dev",
+  "version": "1.0.0",
+  "private": true,
+  "description": "kadet.dev",
+  "author": "kadet",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^2.2.1",
+    "@mdx-js/react": "^2.2.1",
+    "@prismicio/helpers": "^2.3.8",
+    "@prismicio/react": "^2.5.1",
+    "gatsby": "^5.5.0",
+    "gatsby-plugin-google-analytics": "^5.5.0",
+    "gatsby-plugin-image": "^3.5.0",
+    "gatsby-plugin-manifest": "^5.5.0",
+    "gatsby-plugin-mdx": "^5.5.0",
+    "gatsby-plugin-offline": "^6.5.0",
+    "gatsby-plugin-prismic-previews": "^5.2.10",
+    "gatsby-plugin-react-helmet": "^6.5.0",
+    "gatsby-plugin-sharp": "^5.5.0",
+    "gatsby-plugin-sitemap": "^6.5.0",
+    "gatsby-source-filesystem": "^5.5.0",
+    "gatsby-source-prismic": "^5.2.10",
+    "gatsby-transformer-remark": "^6.5.0",
+    "gatsby-transformer-sharp": "^5.5.0",
+    "highlight.js": "^11.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "sharp": "^0.31.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
